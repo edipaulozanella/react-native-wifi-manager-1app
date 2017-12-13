@@ -1,0 +1,53 @@
+{
+  "_from": "react-native-wifi-manager-1app",
+  "_id": "react-native-wifi-manager-1app@0.1.4",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha1-TTd8Mlj0RmNtjQH6vGabmKV1Xt8=",
+  "_location": "/react-native-wifi-manager-1app",
+  "_nodeVersion": "5.0.0",
+  "_npmVersion": "2.14.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-wifi-manager-1app",
+    "name": "react-native-wifi-manager-1app",
+    "escapedName": "react-native-wifi-manager-1app",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-wifi-manager-1app/-/react-native-wifi-manager-1app-0.1.4.tgz",
+  "_shasum": "4d377c3258f446636d8d01fabc669b98a5755edf",
+  "_shrinkwrap": null,
+  "_spec": "react-native-wifi-manager-1app",
+  "_where": "/Users/developer/projects/bktravas/lib",
+  "author": {
+    "name": "Maciej Skierkowski, Edipaulo Zanella"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Wifi Connection Manager for React Native on Android",
+  "devDependencies": {},
+  "directories": {},
+  "gitHead": "0877d239de17f6abe406e5ce86a60f053b7f9862",
+  "keywords": [
+    "react",
+    "native",
+    "wifi",
+    "android",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "wifimanager.js",
+  "name": "react-native-wifi-manager-1app",
+  "optionalDependencies": {},
+  "scripts": {},
+  "version": "0.1.5"
+}
